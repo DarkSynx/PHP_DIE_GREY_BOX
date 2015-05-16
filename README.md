@@ -2,7 +2,7 @@
 is php compacted with script and dll in one exe file
 
 % TEXT FR
-j'ai réunis plusieur logiciel permettant la personnalisation d'un application PHP contenu dans un unique executable .
+j'ai réunis plusieur logiciel permettant la personnalisation une application PHP contenu dans un unique executable .
 
 les Applications sont :
 1 . PHP 5.6.6 et Winbinder 5.6.6 pour l'interface graphique
