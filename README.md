@@ -1,6 +1,11 @@
 # GREYBOX
 is php compacted with script and dll in one exe file
 
+-------------------------------------------------------------------- 
+                  The PHP GREY BOX 2.0.0 alpha
+                       par DARKSYNX @ 2015 
+-------------------------------------------------------------------- 
+
 % TEXT FR
 j'ai réunis plusieur logiciel permettant la personnalisation une application PHP contenu dans un unique executable .
 
