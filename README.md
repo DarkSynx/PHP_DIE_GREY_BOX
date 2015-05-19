@@ -8,29 +8,11 @@ is php compacted with script and dll in one exe file
                        par DARKSYNX @ 2015 
 -------------------------------------------------------------------- 
 
-% TEXT FR
-j'ai réunis plusieur logiciel permettant la personnalisation une application PHP contenu dans un unique executable .
+// DARKSYNX @ 2015 2.0.1.a
 
-les Applications sont :
-1 . PHP 5.6.6 et Winbinder 5.6.6 pour l'interface graphique
-2. Enigma Virtual Box Console 
-3. Reshacker 
+ new NAME DIE_GREY_BOX 	
 
-le tout est Géré par une Application Auto créé par elle même PHP_GB 
-
-j'espére que cela pourra aider les personnes qui ont des problémes à réunir 
-PHP et ces scripts dans un seul executable .
-
-% TEXT EN
-I met PLUSIEUR software for customizing a PHP application contained in a single executable.
-
-Applications are:
-1. PHP 5.6.6 and 5.6.6 Winbinder for GUI
-2. Enigma Virtual Box Console
-3. ResHacker
-
-the whole is a Self Managed by Application created by itself PHP_GB
-
-I hope that it will help people who have problems to meet
-PHP and the scripts in a single executable.
+ select the first file that will execute the File menu, 
+ careful do not forget to check the options before doing this.
+ in this folder all the files will be taken. 
 
