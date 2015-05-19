@@ -2,6 +2,8 @@
 ![](https://cloud.githubusercontent.com/assets/9467611/7703104/93c28938-fe35-11e4-8eb6-8612d9c5ab39.png)
 
 
+VERSION 2.0.1a : https://github.com/Darksynx/PHP_DIE_GREY_BOX/releases 
+
 -------------------------------------------------------------------- 
                   The PHP GREY BOX 2.0.1 alpha
                        par DARKSYNX @ 2015 
