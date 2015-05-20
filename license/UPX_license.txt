@@ -27,7 +27,7 @@ ABSTRACT
    UPX and UCL are copyrighted software distributed under the terms
    of the GNU General Public License (hereinafter the "GPL").
 
-   The stub which is imbedded in each UPX compressed program is part
+   The stub which is imbedded in each UPX compressed program is part 
    of UPX and UCL, and contains code that is under our copyright. The
    terms of the GNU General Public License still apply as compressing
    a program is a special form of linking with our stub.
