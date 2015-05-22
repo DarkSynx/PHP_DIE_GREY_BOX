@@ -1,5 +1,7 @@
 # DIE GREY BOX
 
+[![Join the chat at https://gitter.im/Darksynx/PHP_DIE_GREY_BOX](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Darksynx/PHP_DIE_GREY_BOX?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](https://cloud.githubusercontent.com/assets/9467611/7755893/c2670214-fff7-11e4-9dc4-6de2a4f76569.png)
 
 Version :
