@@ -9,6 +9,7 @@ Version :
      
  *** 3.3.2a : EDITOR SCRIPT
   .. 3.3.2a-2 : FIX BUG SCRIPTS FOLDER & int.phx 
+  .. 3.3.2a-4 : FIX BUG save Select  
   
  *** 3.1.1a : ADD UPX options
   .. 3.1.2a : FIX MSG BUG WIN 8 , 8.1 and 10 incompatibility UPX BEST LZMA , ULTRA 
